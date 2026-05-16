@@ -1,7 +1,7 @@
 📊 Sales & Customer Dashboard | Tableau Project
 📌 Project Overview
 
-![image alt]()
+![image alt](https://github.com/shriram-A-2004/Tableau---Sales-Customer-Dashboard-/blob/main/Screenshot%202026-05-16%20160342.png)
 
 
 ![image alt](https://github.com/shriram-A-2004/Tableau---Sales-Customer-Dashboard-/blob/main/Screenshot%202026-05-16%20160405.png)
