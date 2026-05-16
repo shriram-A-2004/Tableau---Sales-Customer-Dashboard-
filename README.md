@@ -4,7 +4,7 @@
 ![image alt]()
 
 
-![image alt]()
+![image alt](https://github.com/shriram-A-2004/Tableau---Sales-Customer-Dashboard-/blob/main/Screenshot%202026-05-16%20160405.png)
 
 
 This project is an interactive Tableau dashboard designed to analyze Sales and Customer performance using business intelligence techniques.
