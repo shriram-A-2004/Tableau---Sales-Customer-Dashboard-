@@ -1,6 +1,8 @@
 📊 Sales & Customer Dashboard | Tableau Project
 📌 Project Overview
 
+![image alt](https://github.com/shriram-A-2004/Tableau---Sales-Customer-Dashboard-/blob/main/Screenshot%202026-05-16%20160342.png)
+
 This project is an interactive Tableau dashboard designed to analyze Sales and Customer performance using business intelligence techniques.
 The dashboard helps users track key business metrics, customer trends, sales growth, and performance insights through dynamic visualizations.
 
